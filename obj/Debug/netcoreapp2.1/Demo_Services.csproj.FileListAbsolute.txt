@@ -1,0 +1,14 @@
+/home/deftnt/Demo_Services/bin/Debug/netcoreapp2.1/Demo_Services.deps.json
+/home/deftnt/Demo_Services/bin/Debug/netcoreapp2.1/Demo_Services.runtimeconfig.json
+/home/deftnt/Demo_Services/bin/Debug/netcoreapp2.1/Demo_Services.runtimeconfig.dev.json
+/home/deftnt/Demo_Services/bin/Debug/netcoreapp2.1/Demo_Services.dll
+/home/deftnt/Demo_Services/bin/Debug/netcoreapp2.1/Demo_Services.pdb
+/home/deftnt/Demo_Services/obj/Debug/netcoreapp2.1/Demo_Services.csprojAssemblyReference.cache
+/home/deftnt/Demo_Services/obj/Debug/netcoreapp2.1/Demo_Services.csproj.CoreCompileInputs.cache
+/home/deftnt/Demo_Services/obj/Debug/netcoreapp2.1/Demo_Services.RazorAssemblyInfo.cache
+/home/deftnt/Demo_Services/obj/Debug/netcoreapp2.1/Demo_Services.RazorAssemblyInfo.cs
+/home/deftnt/Demo_Services/obj/Debug/netcoreapp2.1/Demo_Services.AssemblyInfoInputs.cache
+/home/deftnt/Demo_Services/obj/Debug/netcoreapp2.1/Demo_Services.AssemblyInfo.cs
+/home/deftnt/Demo_Services/obj/Debug/netcoreapp2.1/Demo_Services.RazorTargetAssemblyInfo.cache
+/home/deftnt/Demo_Services/obj/Debug/netcoreapp2.1/Demo_Services.dll
+/home/deftnt/Demo_Services/obj/Debug/netcoreapp2.1/Demo_Services.pdb
